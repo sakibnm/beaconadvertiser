@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">beaconadvertiser</string>
+    <string name="buttonStartText">Start Beacon!</string>
+    <string name="stopButtonText">Stop Beacon!</string>
+    <string name="buttonScanText">Scan Beacons</string>
+    <string name="ble_not_supported">BLE not supported!</string>
+</resources>
